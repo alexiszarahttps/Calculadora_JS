@@ -13,6 +13,6 @@ const num2 = () => document.calculadora.ans.value += '2'
 const num3 = () => document.calculadora.ans.value += '3'
 const multiplica = () => document.calculadora.ans.value += '*'
 
-const num0 = () => document.calculadora.ans.value += '7'
+const num0 = () => document.calculadora.ans.value += '0'
 const divide = () => document.calculadora.ans.value += '/'
 const igual = () => document.calculadora.ans.value=eval(document.calculadora.ans.value)
